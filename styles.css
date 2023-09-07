@@ -49,6 +49,10 @@ body {
   margin: 0;
 }
 
+#time{
+  font-size: large;
+}
+
 .card__details p {
   font-size: x-large;
   padding: 0;

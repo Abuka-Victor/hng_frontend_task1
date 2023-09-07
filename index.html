@@ -64,7 +64,7 @@
       const day = document.querySelector('#day');
 
       day.textContent = weekday[date.getDay()];
-      time.textContent = date.getUTCMilliseconds();
+      time.textContent = date.toISOString();
     </script>
   </body>
 </html>
