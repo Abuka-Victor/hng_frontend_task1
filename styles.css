@@ -1,3 +1,7 @@
+a{
+  color: white;
+}
+
 body {
   background: url(https://images.unsplash.com/photo-1693760946158-1486b5456ed3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2832&q=80) no-repeat center center/cover;
   height: 100vh;
